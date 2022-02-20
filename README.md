@@ -39,6 +39,3 @@ npm run compile
 npm run test
 
 ```
-
-## Author
-Kei Nakano
